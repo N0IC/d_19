@@ -1,0 +1,72 @@
+[
+{
+    "model": "board.category",
+    "pk": 1,
+    "fields": {
+        "name": "Другое"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 2,
+    "fields": {
+        "name": "Полезные мелочи"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 3,
+    "fields": {
+        "name": "Ютуб"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 4,
+    "fields": {
+        "name": "Стримеры"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 5,
+    "fields": {
+        "name": "Сериалы и кино"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 6,
+    "fields": {
+        "name": "Сливы и взломы"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 7,
+    "fields": {
+        "name": "Знаменитости"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 8,
+    "fields": {
+        "name": "Телеграмм"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 9,
+    "fields": {
+        "name": "Вконтакте"
+    }
+},
+{
+    "model": "board.category",
+    "pk": 10,
+    "fields": {
+        "name": "Инстаграмм"
+    }
+}
+]
